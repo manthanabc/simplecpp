@@ -5,7 +5,9 @@ note that this basic wrapper only include turtle specific parts of the simplecpp
 # Usage
 put the simplecpp file in same directory as your project file and use "" instead of <> while including simplecpp and rest should be the same
 then make sure to use g++ (or any other cpp compiler) to compile your projects 
-``` g++ to.c ```
+```
+g++ to.c
+```
 and then execute a.exe to generate the image the result would be stored in resultant output.bmp file
 
 # Miscellaneous
